@@ -16,3 +16,12 @@ analyse à partir d'une simple photo.
 - Python 3.11+
 - Azure AI Vision / Azure OpenAI
 - FastAPI (serveur MCP - Atelier 2)# menu-analyzer
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Variables d'environnement
+Créer un fichier `.env` à la racine :
