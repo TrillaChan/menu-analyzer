@@ -4,9 +4,8 @@ Une application qui analyse des photos de menus de restaurant
 pour en extraire les plats, ingrédients et allergènes potentiels.
 
 ## Membres du groupe
-- Prénom N.
-- Prénom N.
-- Prénom N.
+- Shaïna Lorsold
+- Paolo Lorsold
 
 ## Le problème résolu
 Lire un menu dans une langue étrangère ou identifier rapidement 
