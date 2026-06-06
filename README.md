@@ -25,3 +25,12 @@ pip install -r requirements.txt
 
 ## Variables d'environnement
 Créer un fichier `.env` à la racine :
+AZURE_OPENAI_KEY=votre_clé
+AZURE_OPENAI_ENDPOINT=votre_endpoint
+AZURE_OPENAI_DEPLOYMENT=gpt-4o
+
+## Utilisation
+Placer une image de menu nommée `menu_test.jpg` dans le dossier puis :
+```bash
+python analyzer.py
+```
